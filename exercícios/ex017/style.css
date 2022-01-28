@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(111, 246, 246);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.2em;
+}
+h1#principal{
+text-align: center;
+font-size: 2em;
+color: rgb(112, 201, 61);
+}
+h1{
+    text-align:left ;
+    color: brown;
+}
+
+p{
+    text-align: justify;
+    text-indent: 20px;
+}
+h1#secundario{
+    text-align: right;
+}
+.autores{
+    background-color: crimson;
+    text-align: center;
+    width: 600px;
+    margin: auto;
+}

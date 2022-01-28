@@ -1,0 +1,17 @@
+
+p{
+    font: italic bolder 1em arial;
+
+}
+h1{
+    font-size: 2em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+body{
+    background-color: #9379F2;
+    width: 600px;
+    margin: auto;
+    box-shadow: 5px;
+}

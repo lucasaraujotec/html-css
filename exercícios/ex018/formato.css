@@ -1,0 +1,15 @@
+body{
+    background-color: crimson;
+}
+h1{
+    color: rgb(12, 209, 71);
+    background-color: darkblue; 
+}
+#principal{
+    color: rgb(255, 238, 2);
+    font-size: 2em;
+
+}
+.secundario{
+    text-align: center;
+}
