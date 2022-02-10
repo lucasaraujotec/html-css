@@ -1,0 +1,33 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: #A6ADE3;
+    
+}
+
+.cabecalho_titulo{
+    text-align: center;
+    color: #292F5E;
+    font-weight: bolder;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+.subtitulo{
+    text-align: center;
+    color: #292F5E;
+    font-weight: bold;
+}
+
+label, p{
+    font-weight: bold;
+    color: #292F5E;
+}
+
+.label_nome{
+    
+}

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Cadastro de Devs</title>
+</head>
+<body>
+    <header>
+        <h1 class="cabecalho_titulo">Cadastro de DEVs</h1>
+        <p class="subtitulo">Complete suas informações</p> <br>
+    </header>
+    <form action="#" method="post">
+        <label for="nome" class="label_nome">
+            Nome <br>
+            <input type="text" id="nome">
+        </label>
+        <label for="sobrenome">
+            Sobrenome <br>
+            <input type="text" id="sobrenome">
+        </label>
+        <label for="email">
+            Email <br>
+            <input type="email" id="email">
+        </label>
+        <p>De que lado da aplicação você desenvolve?</p>
+        <input type="radio" name="ladoaplicacao"> Front-end
+        <input type="radio" name="ladoaplicacao"> Back-end
+        <input type="radio" name="ladoaplicacao"> Fullstack 
+        </label>
+        <br>
+        <label>
+            Selecione as tecnologias que utiliza <br>
+            <input type="checkbox" name="tecnologias" id="tecnologias"> HTML
+            <input type="checkbox" name="tecnologias" id="tecnologias"> CSS
+            <input type="checkbox" name="tecnologias" id="tecnologias"> Javascript
+            <input type="checkbox" name="tecnologias" id="tecnologias"> PHP
+            <input type="checkbox" name="tecnologias" id="tecnologias"> C#
+            <input type="checkbox" name="tecnologias" id="tecnologias"> Python
+            <input type="checkbox" name="tecnologias" id="tecnologias"> Java
+        </label>
+        <br>
+        <label>
+            Conte um pouco mais da sua experiência: <br>
+            <textarea name="areatexto" id="areatexto" cols="30" rows="10"></textarea>
+        </label>
+    </form>
+    <input type="submit" value="Concluído">
+
+</body>
+</html>

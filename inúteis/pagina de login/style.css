@@ -1,0 +1,16 @@
+
+
+body{
+    background-image: linear-gradient( to right, #0e39c7, #3059e0 );
+
+}
+.principal{
+    background-color: #008b8b;
+    height: 350px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
